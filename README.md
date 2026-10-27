@@ -113,6 +113,16 @@ Now, your environment is set up and ready for training and testing.
 
 After running the scripts, your dataset directory should be structured properly for training and testing.
 
+4.  **Download the stage1 weights**
+    Download stage1 weight from - [stage1 weight]([http://www.sysu-hcp.net/sysumm01/](https://drive.google.com/file/d/1_hAbwZsnjQnriD7aGoz8HDOY7_D_L1Yb/view?usp=drive_link))
+
+    Unzip it and put in in CLNS/
+
+
+    *Note: Please adjust the script commands according to the actual usage instructions in the corresponding Python files.*
+
+After running the scripts, your dataset directory should be structured properly for training and testing.
+
 ---
 ## 🎯 Performance
 
