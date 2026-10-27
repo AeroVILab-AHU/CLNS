@@ -118,6 +118,8 @@ After running the scripts, your dataset directory should be structured properly 
 
     Unzip it and put in in CLNS/
 
+    Our work is built upon [CEIL](https://github.com/maybeextra/CEIL/tree/master#-model-zoo), and the implementation can be found at the link above.
+
 
     *Note: Please adjust the script commands according to the actual usage instructions in the corresponding Python files.*
 
